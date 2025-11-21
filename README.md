@@ -50,7 +50,9 @@ print(X)
 *\
 ```
 ## Output:
-![lu decomposition]()
+<img width="1456" height="812" alt="Screenshot 2025-11-21 225449" src="https://github.com/user-attachments/assets/e508f7d6-4e77-4b2c-a055-b846aa6692a7" />
+
+<img width="1595" height="929" alt="Screenshot 2025-11-21 225427" src="https://github.com/user-attachments/assets/0b415ad2-4708-446f-8252-21ee1496796b" />
 
 
 ## Result:
